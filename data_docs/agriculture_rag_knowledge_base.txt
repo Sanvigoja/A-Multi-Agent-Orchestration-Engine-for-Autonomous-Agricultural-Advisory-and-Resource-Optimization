@@ -1,0 +1,205 @@
+AGRICULTURE KNOWLEDGE BASE FOR RAG
+===================================
+
+Purpose
+-------
+This document provides general agricultural information for a Retrieval-Augmented Generation (RAG) demonstration. It covers soil, crops, irrigation, nutrients, pests, diseases, storage, and sustainable farming. Recommendations depend on local climate, soil tests, crop variety, season, and local regulations. Treat this file as general educational guidance, not as a substitute for advice from a local agricultural extension officer.
+
+1. SOIL HEALTH
+--------------
+Soil supports plant roots, supplies water and nutrients, and contains organisms that help break down organic matter.
+
+Common soil types:
+- Sandy soil: Drains quickly and often holds fewer nutrients. Smaller, more frequent irrigation and added organic matter may help.
+- Clay soil: Holds water and nutrients but may drain slowly and become compacted. Avoid working it when excessively wet.
+- Loamy soil: A mixture of sand, silt, and clay; often suitable for many crops when well managed.
+- Black cotton soil: Common in parts of central India. It can hold substantial moisture and may crack when dry. Drainage and timing of field operations are important.
+
+Soil testing:
+- Test soil before deciding fertilizer or lime/soil-amendment rates.
+- A soil test may report pH, electrical conductivity, organic carbon, and available nutrients such as nitrogen, phosphorus, and potassium.
+- Soil pH affects nutrient availability. Do not apply lime or other amendments without a test-based reason and appropriate local guidance.
+- Keep soil covered where practical, add suitable compost or crop residues, rotate crops, and reduce erosion.
+- Use well-decomposed organic manure or compost. Fresh manure can damage plants, introduce pathogens, or cause nutrient losses if poorly managed.
+
+2. CROP SELECTION AND SEASONS IN INDIA
+--------------------------------------
+Choose crops based on local rainfall, irrigation access, soil, temperature, market demand, crop duration, and seed availability.
+
+Broad Indian cropping seasons:
+- Kharif: Generally sown with the monsoon, often June to July, and harvested later in the monsoon or post-monsoon period. Examples include rice, maize, soybean, cotton, and some millets. Actual dates vary by region.
+- Rabi: Generally sown after the monsoon, often October to December, and harvested in spring. Examples include wheat, chickpea, mustard, and some other pulses and cereals.
+- Zaid: A short summer season between Rabi and Kharif in some regions. Examples can include watermelon, cucumber, and certain vegetables where water is available.
+
+These are broad patterns, not universal planting dates. Confirm local sowing windows with the state agriculture department, agricultural university, or Krishi Vigyan Kendra (KVK).
+
+3. SEED QUALITY AND SOWING
+--------------------------
+- Select a crop variety recommended for the local agro-climatic zone and sowing season.
+- Buy seed from a reliable, authorized source and check the crop, variety, lot number, and expiry or validity details on the label.
+- Use seed with suitable germination and physical purity.
+- Follow the recommended seed rate, spacing, sowing depth, and seed-treatment instructions for the crop and variety.
+- Do not mix or apply seed-treatment chemicals unless the product label permits the use and the instructions are understood.
+- Maintain appropriate spacing to reduce competition and improve airflow.
+- Re-sowing decisions should consider plant population, time remaining in the season, seed availability, and local extension advice.
+
+4. WATER MANAGEMENT AND IRRIGATION
+----------------------------------
+Plants need water for germination, nutrient transport, photosynthesis, and growth. Both water shortage and waterlogging can reduce yield.
+
+Common irrigation methods:
+- Flood or surface irrigation: Water flows over the field. It can be simple to operate but may use more water and cause uneven distribution if poorly managed.
+- Sprinkler irrigation: Water is applied through sprinklers. It can suit many field crops and uneven land, depending on wind, water quality, and system design.
+- Drip irrigation: Water is delivered near plant roots. It can improve water-use efficiency when correctly designed and maintained, especially for many horticultural crops.
+
+Good practices:
+- Irrigate according to crop growth stage, soil moisture, weather, and local recommendations rather than following a fixed schedule for every field.
+- Critical growth stages differ by crop. Moisture stress around flowering or grain/fruit formation can be especially damaging for many crops.
+- Check for leaks, blocked emitters, and uneven water distribution.
+- Provide drainage where waterlogging is a risk.
+- Avoid unnecessary irrigation immediately before expected heavy rain.
+- Use mulching where suitable to reduce evaporation and suppress weeds.
+
+5. PLANT NUTRIENTS AND FERTILIZERS
+----------------------------------
+Plants require nutrients in appropriate amounts. The main primary macronutrients are nitrogen (N), phosphorus (P), and potassium (K). Other important nutrients include sulfur, calcium, magnesium, iron, zinc, boron, and manganese.
+
+General roles:
+- Nitrogen supports leafy growth and chlorophyll formation.
+- Phosphorus supports energy transfer, root development, and reproductive growth.
+- Potassium supports water regulation, enzyme activity, and stress tolerance.
+- Micronutrients are needed in smaller amounts but remain essential.
+
+Fertilizer management:
+- Base fertilizer decisions on soil testing, crop requirements, expected yield, and local recommendations.
+- Apply the right source, rate, time, and placement.
+- Split nitrogen applications where recommended for the crop to improve uptake and reduce losses.
+- Avoid excessive fertilizer: it can waste money, harm crops, contaminate water, and increase environmental impacts.
+- Do not assume a yellow leaf always means nitrogen deficiency. Waterlogging, pests, disease, root damage, pH, and other nutrient deficiencies can cause similar symptoms.
+- Use organic inputs and mineral fertilizers according to crop needs and local guidance; one does not automatically replace the other.
+
+6. WEED MANAGEMENT
+------------------
+Weeds compete with crops for light, water, nutrients, and space. They may also host pests.
+
+Integrated weed management can include:
+- Timely hand weeding or mechanical cultivation.
+- Crop rotation and appropriate planting density.
+- Mulching where suitable.
+- Clean seed and equipment to reduce weed-seed spread.
+- Herbicides only when registered for the crop and weed, and strictly according to the product label.
+- Use protective equipment and follow re-entry and pre-harvest intervals stated on the label.
+- Avoid spraying in windy conditions or near water bodies where drift or runoff may occur.
+
+7. INTEGRATED PEST MANAGEMENT (IPM)
+-----------------------------------
+Integrated Pest Management combines monitoring, prevention, and suitable control methods to keep pests below damaging levels while reducing unnecessary pesticide use.
+
+IPM steps:
+1. Identify the crop, pest, and observed damage.
+2. Monitor pest numbers and crop condition regularly.
+3. Use prevention such as crop rotation, field sanitation, resistant varieties, and suitable planting dates.
+4. Conserve beneficial insects and other natural enemies.
+5. Use physical or mechanical control where practical.
+6. Consider biological controls when appropriate and available.
+7. Use a registered pesticide only when justified by local recommendations and label directions.
+8. Evaluate results and record the treatment, date, product, and outcome.
+
+Important pesticide safety:
+- Never recommend a pesticide solely from a vague symptom or an unconfirmed pest identification.
+- Use only products registered for the crop and target pest in the relevant jurisdiction.
+- Follow the label exactly, including dose, dilution, protective equipment, waiting period before harvest, and restrictions for pollinators and water.
+- Never mix products unless the label explicitly allows it.
+- Keep pesticides in their original labeled containers, away from children, animals, food, and drinking water.
+- Do not reuse pesticide containers for household purposes.
+- If exposure or poisoning is suspected, seek urgent medical or poison-control assistance and take the product label if safe to do so.
+
+8. COMMON CROP PROBLEMS: DIAGNOSIS CAUTION
+------------------------------------------
+Symptoms alone rarely prove a specific disease or nutrient deficiency.
+
+Examples:
+- Yellow leaves: Possible causes include nutrient deficiency, waterlogging, drought, root damage, pests, disease, or natural ageing.
+- Wilting: Possible causes include drought, damaged roots, vascular disease, or waterlogged soil.
+- Leaf spots: May be caused by fungi, bacteria, insects, chemical injury, or environmental stress.
+- Stunted growth: May relate to poor seed, nutrient imbalance, unsuitable pH, root restriction, pests, disease, or weather.
+- Powdery or downy growth: May suggest a disease, but correct identification requires examining the crop and conditions.
+
+For useful diagnosis, collect:
+- Crop and variety, crop age, and growth stage.
+- Village/district or agro-climatic region.
+- Sowing date and recent weather.
+- Soil and irrigation details.
+- Whether symptoms occur on a few plants or throughout the field.
+- Clear photos of the whole plant, affected leaves (both sides), stem, and roots if safely available.
+- Recent fertilizer, pesticide, or herbicide applications.
+
+Do not give a definitive diagnosis from incomplete information. Recommend a local KVK, agricultural university, or state agriculture department for confirmation when the issue is serious or spreading quickly.
+
+9. CROP ROTATION AND INTERCROPPING
+----------------------------------
+Crop rotation means growing different crops in sequence on the same field. It can help diversify production, interrupt some pest and disease cycles, and improve nutrient management.
+
+General principles:
+- Rotating cereals with suitable legumes can diversify the system; legumes may contribute nitrogen through biological fixation, depending on species and management.
+- Avoid repeating the same crop family continuously when it increases pest or disease pressure.
+- Choose rotations based on local climate, soil, water, markets, and the previous crop.
+- Intercropping can use space and resources efficiently, but crop combinations and row ratios should follow local research or extension recommendations.
+- Rotation does not guarantee that all pests, diseases, or nutrient problems will disappear.
+
+10. HARVESTING AND POST-HARVEST STORAGE
+--------------------------------------
+- Harvest at the crop-specific stage of maturity and under suitable weather conditions.
+- Handle produce gently to reduce bruising and mechanical damage.
+- Dry grains to the moisture level recommended for safe storage of that grain and storage system.
+- Store produce in clean, dry, pest-managed facilities.
+- Protect grain from moisture, rodents, insects, and contamination.
+- Inspect stored grain periodically and use safe, approved pest-management methods.
+- Do not use unapproved chemicals or household substances on stored food.
+
+11. CLIMATE-SMART AND SUSTAINABLE PRACTICES
+-------------------------------------------
+Practices that may improve resilience, depending on local conditions:
+- Soil testing and balanced nutrient management.
+- Efficient irrigation and rainwater harvesting where feasible.
+- Mulching, cover crops, and reduced soil disturbance where suitable.
+- Crop diversification and locally appropriate rotations.
+- Weather-informed sowing, irrigation, and plant-protection decisions.
+- Agroforestry or integrated crop-livestock systems where appropriate.
+- Use of locally recommended climate-resilient varieties.
+- Keeping farm records for input use, yield, rainfall, and costs.
+
+No single practice is suitable for every farm. Consider local evidence, labor, cost, water availability, and potential trade-offs.
+
+12. FARMER INFORMATION AND LOCAL SUPPORT IN INDIA
+-------------------------------------------------
+For crop-specific, location-specific advice in India, consult:
+- Krishi Vigyan Kendra (KVK) serving the farmer's district.
+- State Department of Agriculture or Horticulture.
+- State Agricultural University.
+- Indian Council of Agricultural Research (ICAR) institutions.
+- Official government weather and agricultural advisories.
+
+For current schemes, pesticide registrations, subsidy amounts, market prices, or weather forecasts, verify the latest official source. Such details change over time and should not be treated as fixed facts in this knowledge base.
+
+13. GUIDANCE FOR THE RAG ASSISTANT
+---------------------------------
+When answering a farmer's question:
+1. Retrieve the most relevant passages from this knowledge base.
+2. State the general principle and its limitations.
+3. Ask for missing context when it changes the recommendation: crop, variety, location, season, growth stage, symptoms, soil test, irrigation, and recent treatments.
+4. Distinguish general educational information from verified local recommendations.
+5. Do not invent fertilizer doses, pesticide names, application rates, subsidy amounts, prices, or planting dates.
+6. For pesticide or disease advice, ask clarifying questions and recommend official local confirmation when needed.
+7. For current or location-specific facts, consult an up-to-date official source rather than relying only on this static file.
+8. If the retrieved information does not answer the question, say that the knowledge base does not contain enough information instead of guessing.
+9. Use clear, simple language and explain technical terms.
+10. Never claim that a recommendation guarantees a particular yield or prevents all crop loss.
+
+Suggested metadata for chunking:
+- Document title: Agriculture Knowledge Base for RAG
+- Language: English
+- Region: General guidance with India-specific seasonal context
+- Content type: Educational reference
+- Version: 1.0
+- Review note: Update using verified official agricultural sources before production use.
